@@ -1,5 +1,1 @@
-# this is notes file
-
-test
-test
-|  0  .  0  |
+lorem ipsum dolor sit amet
